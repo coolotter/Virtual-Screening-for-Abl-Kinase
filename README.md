@@ -2,7 +2,7 @@
 
 This repo is a demonstration of using deep learning for Virtual Screening. My target will be Abl kinase (1FPU) and my dataset comes from http://dude.docking.org/ which provides active and decoy molecules for virtual screening. For prediction, I obtained my dataset through https://zinc.docking.org/, which is a database for commerically available compounds for virtual screening.
 
-I have added my comments and thoughts in the pdf file. Hopefully this will inspire more chemists (especially my group members) to use machine learning for their research. 
+I have added my comments and thoughts in the pdf file, alternatively you can view it as a blogpost through medium (still in draft): https://medium.com/@diandrasafira/deep-learning-for-the-virtual-screening-1cd9fb2720c1. Hopefully this will inspire more chemists (especially my group members) to use machine learning for their research. 
 
 ## Prerequisites
 To do this project properly:
